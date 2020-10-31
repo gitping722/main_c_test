@@ -5,7 +5,6 @@
 
 int main(void)
 {
-    printf("test1 branch merge to master");
-    printf("remote branch1 test");
+    printf("remote branch2 test");
     return 0;
 }

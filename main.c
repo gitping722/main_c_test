@@ -6,6 +6,6 @@
 int main(void)
 {
     printf("test1 branch merge to master");
-
+    printf("branch2");
     return 0;
 }
